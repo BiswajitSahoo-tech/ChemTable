@@ -1,4 +1,4 @@
-# Pencil
+# ChemTable
 ## Read the Instructions Carefully!
 
 ### File Details
@@ -9,7 +9,6 @@
 * **pencil:** This is the main c file for the application. 
 * **Pencil Application:** This is the exe file which you can run it on your machine.
 
-***Refer to this link [Pencil](https://gtribe.github.io/pencil/) which contains all the commands and the instructions.***
 
 ### Additional Information
 * Any change or modification in the code must be done by [Creating another branch](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository#:~:text=Further%20reading-,Creating%20a%20branch,main%20page%20of%20the%20repository.&text=Click%20the%20branch%20selector%20menu,branch%2C%20then%20select%20Create%20branch.).
